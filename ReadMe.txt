@@ -1,1 +1,1 @@
-This is a R version BKT model implemented by EM algorithm.
+This is an R version BKT model implemented by EM algorithm.
